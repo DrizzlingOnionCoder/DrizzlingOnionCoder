@@ -49,6 +49,5 @@
 <h3 align="center">📊 GitHub Analytics</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DrizzlingOnionCoder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DrizzlingOnionCoder&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak Card" width="48%" />
 </p>
