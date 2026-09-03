@@ -1,9 +1,10 @@
 <p align="center">
-  <code> Web Developer = "Mico"</code><br>
+  <code>const dev = "Mico"</code><br>
+  <code>specialization = "IT Student & Aspiring Programmer"</code>
 </p>
 
 <p align="center">
-  <img src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=60F3FF&background=FF5D2B00&center=true&vCenter=true&width=435&lines=Open+for+HIRE+and+COLLABORATIONS;Driven+by+Value%2C+Result+%26+Growth;Let's+Connect+%26+Build+Something+Great)](https://git.io/typing-svg)" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=60F3FF&background=FF5D2B00&center=true&vCenter=true&width=435&lines=Open+for+HIRE+and+COLLABORATIONS;Driven+by+Value%2C+Result+%26+Growth;Let's+Connect+%26+Build+Something+Great" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
