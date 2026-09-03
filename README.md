@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=2000&pause=800&color=8B949E&center=true&vCenter=true&width=500&height=25&lines=HTML+%C2%B7+CSS+%C2%B7+JS+%C2%B7+PHP+%C2%B7+MySQL+%C2%B7+Flutter;building+web+and+mobile+applications;open+to+opportunities" alt="Typing SVG](https://readme-typing-svg.demolab.com/demo/?color=60F3FF&background=FF5D2B00&center=true&vCenter=true&lines=Open+for+HIRE+and+COLLABORATIONS;Driven+by+Value%2C+Result+%26+Growth;Let's+Connect+%26+Build+Something+Great)" />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/mico-balce-14887b3b3/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
