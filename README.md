@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://linkedin.com](https://www.linkedin.com/in/mico-balce-14887b3b3/)" target="_blank">
+  <a href="https://www.linkedin.com/in/mico-balce-14887b3b3/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://facebook.com/mokibalce.21" target="_blank">
