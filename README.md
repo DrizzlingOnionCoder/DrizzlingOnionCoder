@@ -1,7 +1,19 @@
-## Hi there 👋
+<p align="center">
+  <code>const dev = "Mico"</code><br>
+  <code>specialization = "IT Student & Aspiring Programmer"</code>
+</p>
 
-const dev = "Mico"
-specialization = "IT Student & Aspiring Programmer"
+<p align="center">
+  <a href="[https://linkedin.com](https://www.linkedin.com/in/mico-balce-14887b3b3/)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://facebook.com/mokibalce.21" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-mokibalce.21-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="mailto:moc22412@gmail.com">
+    <img src="https://img.shields.io/badge/Email-moc22412@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
