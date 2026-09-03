@@ -1,6 +1,5 @@
 <p align="center">
-  <code>const dev = "Mico"</code><br>
-  <code>specialization = "IT Student & Aspiring Programmer"</code>
+  <code> Web Developer = "Mico"</code><br>
 </p>
 
 <p align="center">
