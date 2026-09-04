@@ -50,9 +50,6 @@
 
 <p align="center">
   <a href="https://portfolio-design-mu-aosin.vercel.app" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=DrizzlingOnionCoder&theme=tokyonight&show_icons=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://portfolio-design-mu-aosin.vercel.app" target="_blank">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=DrizzlingOnionCoder&theme=tokyonight" alt="Streak Card" />
   </a>
 </p>
