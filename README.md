@@ -55,5 +55,5 @@
 </p>
 
 <div align="center">
-<sub>Check out my stats! <a href="https://portfolio-design-mu-eosin.vercel.app" target="_blank"> see the work →</a></sub>
+<sub>Check out my <a href="https://portfolio-design-mu-eosin.vercel.app" target="_blank"> STATS! →</a></sub>
 </div>
