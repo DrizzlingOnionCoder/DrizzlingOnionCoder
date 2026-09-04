@@ -1,5 +1,6 @@
 <p align="center">
-  <code>Web Developer = "Mico"</code><br>
+  <code>const dev = "Mico"</code><br>
+  <code>specialization = "IT Student & Aspiring Programmer"</code>
 </p>
 
 <p align="center">
@@ -48,10 +49,10 @@
 <h3 align="center">📊 GitHub Analytics</h3>
 
 <p align="center">
-  <a href="https://your-portfolio-name.vercel.app" target="_blank">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=DrizzlingOnionCoder&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0d1117" alt="GitHub Stats" width="48%" />
+  <a href="https://portfolio-design-mu-aosin.vercel.app" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=DrizzlingOnionCoder&theme=tokyonight&show_icons=true" alt="GitHub Stats" />
   </a>
-  <a href="https://your-portfolio-name.vercel.app" target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DrizzlingOnionCoder&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak Card" width="48%" />
+  <a href="https://portfolio-design-mu-aosin.vercel.app" target="_blank">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DrizzlingOnionCoder&theme=tokyonight" alt="Streak Card" />
   </a>
 </p>
