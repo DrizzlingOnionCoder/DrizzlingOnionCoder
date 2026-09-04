@@ -46,6 +46,7 @@
 ---
 
 <h3 align="center">📊 GitHub Analytics</h3>
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-VIEW_SITE-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-design-mu-eosin.vercel.app)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DrizzlingOnionCoder&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak Card" width="48%" />
